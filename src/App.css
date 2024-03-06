@@ -42,7 +42,7 @@
 }
 
 .top-left-logo {
-  position: fixed;
+  position: absolute;
   top: 30px;
   left: 20px;
   width: 110px;
