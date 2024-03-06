@@ -1,23 +1,25 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
-[Mantine](https://ui.mantine.dev/) librariries and functionality were leveraged in this application.
+[Mantine](https://ui.mantine.dev/) libraries and functionality were leveraged in this application.
 
 ## Starting Application
-First, clone the project using git clone https://github.com/Humdaan488/Clinical-Trial-Dataset.git
+First, clone the project using `git clone https://github.com/Humdaan488/Clinical-Trial-Dataset.git`
 
-Then in the project directory, run the following to setup project:
-### `npm install`
+Then in the project directory, run the following to set up the project:
+
+`npm install`
+
 Installs relevant dependencies. \
 Note: npm install in a React project created with Create React app can take longer on the first installation\
 compared to subsequent runs. This is due to the number of dependencies as well as having nothing cached on first try.
 
-### `npm start`
+ `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.
 
-## Main Project files
+## Main Project Files
 
 ### `TableData.js`
 - Custom React hook to fetch and transform subjects data from a mock API endpoint.
