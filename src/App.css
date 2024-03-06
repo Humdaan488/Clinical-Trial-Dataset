@@ -2,18 +2,18 @@
   text-align: center;
 }
 
-.Table{
+.Table {
   text-align: left;
 }
 .App h1 {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #454754;
   margin-bottom: 5px;
 }
 
 .vision-statement {
-  font-family: 'Poppins', sans-serif;
-  color: #67B7AE;
+  font-family: "Poppins", sans-serif;
+  color: #67b7ae;
   font-weight: 600;
   margin-top: 0;
   margin-bottom: 10px;
@@ -45,7 +45,7 @@
   position: fixed;
   top: 30px;
   left: 20px;
-  width: 110px;  
+  width: 110px;
   height: auto;
   z-index: 1000;
 }
@@ -58,10 +58,10 @@
     width: 70px;
   }
   .App-header {
-    padding-top: 60px; 
+    padding-top: 60px;
   }
   .App h1 {
-    font-size: 1.5em; 
+    font-size: 1.5em;
   }
   .vision-statement {
     font-size: 0.8em;
