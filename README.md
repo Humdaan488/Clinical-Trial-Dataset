@@ -23,8 +23,7 @@ The page will reload when you make changes.
 
 ### `TableData.js`
 - Custom React hook to fetch and transform subjects data from a mock API endpoint.
-- Manages loadi
-- ng state and provides structured subject data to components.
+- Manages loading state and provides structured subject data to components.
 ### `DisplayTable.js`
 - React component that utilizes Mantine library to display, filter, and sort subjects data.
 - Configures table columns, integrates data from TableData.js, and manages table features like row selection, column ordering, and pinning.
